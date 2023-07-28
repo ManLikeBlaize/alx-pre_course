@@ -1,0 +1,5 @@
+!/bin/bash
+echo "ALX"
+^C
+
+root@6c1ace7e12e8:/alx-pre_course/0x01-gut/bash# clear
